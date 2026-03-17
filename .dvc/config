@@ -1,0 +1,4 @@
+[core]
+    remote = dvcmyremote
+['remote "dvcmyremote"']
+    url = s3://dvc-s3-dem0
